@@ -10,8 +10,6 @@
 
 - 📈 I'm currently growing my algorithmic skills [Leetcode](https://leetcode.com/u/Eternal_Hustler1/)
 
-- 🤝 I’m currently working on **Rent Buddy**
-
 - 👨‍💻 All of my projects are available at [https://krishna-sai-charith-portfolio.vercel.app/](https://krishna-sai-charith-portfolio.vercel.app/)
 
 - 🎮 I'm a Hardcore Gamer **Free Fire Esports Player**
